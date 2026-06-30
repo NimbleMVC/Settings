@@ -2,7 +2,6 @@
     "name": "nimblephp/settings",
     "description": "Runtime key-value settings for NimblePHP, stored in the database with typed values and per-request caching",
     "type": "library",
-    "version": "1.0.0",
     "license": "MIT",
     "autoload": {
         "psr-4": {
